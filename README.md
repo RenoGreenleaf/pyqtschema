@@ -6,11 +6,8 @@ schema is translated to QWidgets.
 ## Installation
 
 As usual:
-* install the pypi version
-  
-  `pip install pyqtschema`
 
-* or clone the repository
+Clone the repository
 
   `pip install git+https://github.com/RenoGreenleaf/pyqtschema.git`
 
