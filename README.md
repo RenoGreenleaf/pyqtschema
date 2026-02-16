@@ -12,7 +12,7 @@ As usual:
 
 * or clone the repository
 
-  `pip install git+https://github.com/amsico/pyqtschema.git`
+  `pip install git+https://github.com/RenoGreenleaf/pyqtschema.git`
 
 ## Usage
 
@@ -22,7 +22,7 @@ Use the `WidgetBuilder` in applications or run the module to visualize a schema:
 
 ## Examples
 
-Several examples are available in the [examples](https://github.com/amsico/pyqtschema/tree/main/examples) folder. The
+Several examples are available in the [examples](https://github.com/RenoGreenleaf/pyqtschema/tree/main/examples) folder. The
 examples use [pydantic](https://pydantic-docs.helpmanual.io/) to generate schemas easily.
 
 ## Background
