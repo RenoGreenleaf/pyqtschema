@@ -62,6 +62,7 @@ class ObjectSchemaWidget(SchemaWidgetMixin, QGroupBox):
             widget.on_changed.connect(partial(self.widget_on_changed, name))
             widget.setHidden(_hide)
             widget.setDisabled(_disable)
+            widget.setObjectName(name)
 
             _row_index = layout.rowCount()
             if widget.show_title() and _show_title:
